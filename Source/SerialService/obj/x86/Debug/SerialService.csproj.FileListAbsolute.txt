@@ -1,0 +1,12 @@
+E:\Temp\SerialService\SerialService\bin\Debug\SerialService.exe.config
+E:\Temp\SerialService\SerialService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\SerialService\SerialService\obj\x86\Debug\SerialService.Properties.Resources.resources
+E:\Temp\SerialService\SerialService\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Temp\SerialService\SerialService\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Temp\SerialService\SerialService\bin\Debug\SerialService.exe
+E:\Temp\SerialService\SerialService\bin\Debug\SerialService.pdb
+E:\Temp\SerialService\SerialService\bin\Debug\SerialService.libs.dll
+E:\Temp\SerialService\SerialService\bin\Debug\SerialService.libs.pdb
+E:\Temp\SerialService\SerialService\obj\x86\Debug\SerialService.MainForm.resources
+E:\Temp\SerialService\SerialService\obj\x86\Debug\SerialService.exe
+E:\Temp\SerialService\SerialService\obj\x86\Debug\SerialService.pdb

@@ -1,0 +1,36 @@
+E:\Sunlight\09 输送系统\06 智能药架\PC程序\智能药架系统20170627\CDrugShelf485\obj\Debug\ResolveAssemblyReference.cache
+E:\Sunlight\09 输送系统\06 智能药架\PC程序\智能药架系统20170627\CDrugShelf485\obj\Debug\CDrugShelf.dll
+E:\Sunlight\09 输送系统\06 智能药架\PC程序\智能药架系统20170627\CDrugShelf485\bin\Debug\CDrugShelf.dll
+E:\Sunlight\09 输送系统\06 智能药架\PC程序\智能药架系统20170627\CDrugShelf485\bin\Debug\CDrugShelf.pdb
+E:\Sunlight\09 输送系统\06 智能药架\PC程序\智能药架系统20170627\CDrugShelf485\obj\Debug\CDrugShelf.pdb
+E:\Work\智能药架\智能药架系统20170627_通讯驱动基于485\CDrugShelf485\bin\Debug\CDrugShelf.dll
+E:\Work\智能药架\智能药架系统20170627_通讯驱动基于485\CDrugShelf485\bin\Debug\CDrugShelf.pdb
+E:\Work\智能药架\智能药架系统20170627_通讯驱动基于485\CDrugShelf485\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\智能药架\智能药架系统20170627_通讯驱动基于485\CDrugShelf485\obj\Debug\CDrugShelf.dll
+E:\Work\智能药架\智能药架系统20170627_通讯驱动基于485\CDrugShelf485\obj\Debug\CDrugShelf.pdb
+E:\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.dll
+E:\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.pdb
+E:\智能药架系统20170627\CDrugShelf485\obj\Debug\ResolveAssemblyReference.cache
+E:\智能药架系统20170627\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.dll
+E:\智能药架系统20170627\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.pdb
+E:\智能药架系统20170627\CDrugShelf485\bin\Debug\CDrugShelf.dll
+E:\智能药架系统20170627\CDrugShelf485\bin\Debug\CDrugShelf.pdb
+E:\Share\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.dll
+E:\Share\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.pdb
+E:\Share\智能药架系统20170627\CDrugShelf485\bin\Debug\CDrugShelf.dll
+E:\Share\智能药架系统20170627\CDrugShelf485\bin\Debug\CDrugShelf.pdb
+E:\Share\智能药架系统20170627\CDrugShelf485\obj\Debug\ResolveAssemblyReference.cache
+E:\Share\智能药架系统20170627\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.dll
+E:\Share\智能药架系统20170627\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.pdb
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.pdb
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.pdb
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf.dll
+E:\Work\智能药架\智能药架系统20170627\CDrugShelf485\bin\Debug\HFSDrugShelf.pdb
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\obj\Debug\HFSDrugShelf485Can.pdb
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\bin\Debug\HFSDrugShelf485Can.pdb

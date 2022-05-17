@@ -1,0 +1,15 @@
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\TestAPP.MainWindow.resources
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\TestAPP.TestForm.resources
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\TestAPP.Properties.Resources.resources
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\TestAPP.exe.config
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\TestAPP.exe
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\TestAPP.pdb
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\HFSIFrameLib.dll
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\HFSDrugShelf485Can.pdb
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\bin\Debug\HFSIFrameLib.pdb
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\TestAPP.exe
+E:\Work\智能药柜\CODE\AutoFrameSystem\TestAPP\obj\x86\Debug\TestAPP.pdb

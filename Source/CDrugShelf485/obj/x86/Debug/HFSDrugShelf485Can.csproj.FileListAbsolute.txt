@@ -1,0 +1,5 @@
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\bin\x86\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\bin\x86\Debug\HFSDrugShelf485Can.pdb
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\obj\x86\Debug\HFSDrugShelf485Can.dll
+E:\Work\智能药柜\CODE\AutoFrameSystem\CDrugShelf485\obj\x86\Debug\HFSDrugShelf485Can.pdb

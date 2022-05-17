@@ -1,0 +1,5 @@
+E:\Temp\SerialService\CDrugShelf485\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\SerialService\CDrugShelf485\bin\x86\Debug\SerialService.libs.dll
+E:\Temp\SerialService\CDrugShelf485\bin\x86\Debug\SerialService.libs.pdb
+E:\Temp\SerialService\CDrugShelf485\obj\x86\Debug\SerialService.libs.dll
+E:\Temp\SerialService\CDrugShelf485\obj\x86\Debug\SerialService.libs.pdb
